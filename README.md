@@ -8,3 +8,7 @@ Each folder should have a README.md with instructions on how to use it.
 ## How to contribute 
 To contribute, create a new branch and add a new folder for each script idea.
 Add a README.md with instructions on how to use it. Others will look at your code and make suggestions before merging into the main branch. 
+
+### Current scripts
+#### Cost group transform 
+- Find Cost Group data, Transform into API format, Load into a Job Budget
