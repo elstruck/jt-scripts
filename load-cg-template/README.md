@@ -1,4 +1,10 @@
-# Find Cost Group data, Transform into API format, Load into a Job Budget
+# load-cg-template
+
+## Author
+Elliott Wittstruck
+
+## Date
+09-25-2024
 
 ## Overview
 This script is designed to find Cost Group data in a database, transform it into the desired API format, and load it into a Job Budget.
