@@ -9,6 +9,9 @@ Each folder should have a README.md with instructions on how to use it.
 To contribute, create a new branch and add a new folder for each script idea.
 Add a README.md with instructions on how to use it. Others will look at your code and make suggestions before merging into the main branch. 
 
-### Current scripts
-#### Cost group transform 
+Don't forget to add your script to the list below!
+Naming convention: [folder name], [description], [author]
+
+## Current scripts
+#### load-cg-template,Load Cost Group Template into Job Budget, by Elliott Wittstruck
 - Find Cost Group data, Transform into API format, Load into a Job Budget
